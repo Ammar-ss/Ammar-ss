@@ -17,11 +17,12 @@
 
 - 📫 How to reach me **ammarbhilwarawala@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-nYz_Jh647ffEowdqI215mtPx-tyfHsk/view?usp=drive_link](https://drive.google.com/file/d/1-nYz_Jh647ffEowdqI215mtPx-tyfHsk/view?usp=drive_link)
+- 📄 My Resume for Reference...
+[https://drive.google.com/file/d/1-nYz_Jh647ffEowdqI215mtPx-tyfHsk/view?usp=drive_link](https://drive.google.com/file/d/1-nYz_Jh647ffEowdqI215mtPx-tyfHsk/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ammar bhilwarawala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ammar bhilwarawala" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ammar bhilwarawala" height="30" width="40" /></a>
 <a href="https://kaggle.com/ammarbhilwarawala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ammarbhilwarawala" height="30" width="40" /></a>
 <a href="https://instagram.com/am.marssss__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="am.marssss__" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ammar-bhilwarawala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ammar-bhilwarawala" height="30" width="40" /></a>
