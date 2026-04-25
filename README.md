@@ -61,7 +61,7 @@ GPR surrogate (Matérn 5/2, ARD) on 91 FEA simulations achieving LOOCV R² > 0.9
 
 ## What I'm Looking For
 
-Research Assistant / Internship positions in **medical AI**, **uncertainty quantification**, or **data-driven computational modelling**. Open to lab collaborations, especially those working at the intersection of clinical relevance and methodological rigour.
+Research Assistant / Internship positions in **medical AI**. Open to lab collaborations, especially those working at the intersection of clinical relevance and methodological rigour.
 
 ---
 
