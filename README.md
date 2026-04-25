@@ -38,10 +38,15 @@ GPR surrogate (Matérn 5/2, ARD) on 91 FEA simulations achieving LOOCV R² > 0.9
 ## Skills
 
 **ML / Deep Learning** — PyTorch, scikit-learn, NumPy, Pandas, XGBoost, GPR, SciPy
+
 **Architectures** — U-Net variants, Attention mechanisms, State Space Models (Mamba), BiGRU/LSTM, DS-Conv
+
 **Agentic / LLM** — LLM orchestration, RAG pipelines, tool-use agentic workflows, Groq API
+
 **Research tooling** — LaTeX, Weights & Biases, TensorBoard, Grad-CAM, UMAP/t-SNE, Jupyter
+
 **Languages** — Python, Java, C, SQL, Bash
+
 **Infrastructure** — Git, Linux, Docker
 
 ---
