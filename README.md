@@ -1,32 +1,68 @@
-<h1 align="center">Hi 👋, I'm AMMAR BHILWARAWALA</h1>
-<h3 align="center">I am a simple guy who is trying to use his knowledge to solve real-world problems.</h3>
+# Ammar Bhilwarawala
 
-- 🔭 I’m currently working on **RESEARCH PAPERS IN MEDICAL IMAGING**
+**Undergraduate ML researcher** @ KIIT University · CGPA 9.03/10
 
-- 🌱 I’m currently learning **more about AI/ML and the industrial market**
+I build things at the edge of medical image segmentation, uncertainty-aware deep learning, and agentic clinical AI. My work tends to start with a clinical problem that doesn't have a clean solution, and end with something that actually measures up against state-of-the-art. Currently in my third year, already with one published paper (Best Paper Award, ANTIC 2025) and several under review at MICCAI 2026 and Elsevier journals.
 
-- 👯 I’m looking to collaborate on **REAL-WORLD PROJECTS THAT SOLVE ACTUAL PROBLEMS**
+---
 
-- 🤝 I’m looking for help with **Creating a personalised LLM**
+## Research
 
-- 👨‍💻 All of my projects are available at [https://ammarbhilwarawala12.wordpress.com/my-projects/](https://ammarbhilwarawala12.wordpress.com/my-projects/)
+> All work is first-authored unless noted.
 
-- 📝 I regularly write articles on [https://ammarbhilwarawala12.wordpress.com/](https://ammarbhilwarawala12.wordpress.com/)
+**[FETALFusion](https://github.com/Ammar-ss/My_U-Net_Model_variations)** · *Under Review at MICCAI 2026*
+Dual-path CNN-Mamba encoder with resolution-aware state-space scanning for multi-domain fetal ultrasound segmentation. DSC = 0.9635, HD95 = 1.07 mm on 472 validation images. HD95 std 3.2× lower than VM-UNet.
 
-- 💬 Ask me about **anything! and I shall be open to a convo.**
+**[Attention-ResUNet for Fetal Head Segmentation](https://github.com/Ammar-ss/My_U-Net_Model_variations)** · *Published at ANTIC 2025 (Springer LNCS)* · 🏆 Best Paper, Image Processing Track
+Multi-scale attention gates + residual skip connections. DSC = 99.30 ± 0.14% on HC18 (n=200). Zero false-negative segmentations. 23 ms inference on RTX 3080.
 
-- 📫 How to reach me **ammarbhilwarawala@gmail.com**
+**[BRIDGE + TCH-Net](https://github.com/Ammar-ss/-YVOO-for-Credit-Scoring-Fraud-Mitigation)** · *Under Review at JNCA (Elsevier)* · 📦 [Model](https://huggingface.co/Ammar-ss/BRIDGE_and_TCH-Net) · 📊 [Dataset](https://huggingface.co/datasets/Ammar-ss/BRIDGE) · 📄 [Preprint](https://huggingface.co/papers/2604.11324)
+First formally-specified leave-one-domain-out generalisation benchmark for IoT botnet detection across 5 heterogeneous datasets (CICIDS-2017, CIC-IoT-2023, Bot-IoT, Edge-IIoTset, N-BaIoT). TCH-Net achieves F1 = 0.8296, AUC = 0.9380. **Invited by Niels Rogge (Lead ML Engineer, Hugging Face)** to host artifacts on the Hub; commended by the HF team for advancing reproducibility in IoT security research.
 
-- 📄 My Resume for Reference...
-[https://drive.google.com/file/d/1-nYz_Jh647ffEowdqI215mtPx-tyfHsk/view?usp=drive_link](https://drive.google.com/file/d/1-nYz_Jh647ffEowdqI215mtPx-tyfHsk/view?usp=drive_link)
+**[AdaptiMed](https://github.com/Ammar-ss)** · *Technical Report*
+Extended MedAgent-Pro (ICLR 2026) with guideline-grounded adaptive agentic diagnosis. +24 pp category accuracy, +26 pp broad accuracy on REFUGE2 fundus cases. −25.7% tool calls per case.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ammar bhilwarawala" height="30" width="40" /></a>
-<a href="https://kaggle.com/ammarbhilwarawala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ammarbhilwarawala" height="30" width="40" /></a>
-<a href="https://instagram.com/am.marssss__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="am.marssss__" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ammar-bhilwarawala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ammar-bhilwarawala" height="30" width="40" /></a>
-</p>
+**[FETALFusion-v2](https://github.com/Ammar-ss/My_U-Net_Model_variations)** · *In Preparation at Medical Image Analysis (Elsevier)*
+Single-network dual-decoder CNN-Mamba for simultaneous binary segmentation + Gaussian landmark heatmaps (BPD, OFD, PS, FH). Trained on >10k images across 5 public datasets.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+**[CAGED](https://github.com/Ammar-ss)** · *Work in Progress*
+Replacing heuristic early-exit gates in agentic diagnosis with principled Dirichlet posteriors. Guideline-RAG threshold retrieval (EGS 2020, ACC/AHA, WHO ICD-11) enables cross-domain transfer without retraining.
+
+**[GPR-DE Architecture for Seismic Control of a Benchmark Cable-Stayed Bridge](https://github.com/Ammar-ss)** · Under Review at Journal of Vibration Engineering & Technologies (Springer) · 2nd Author
+GPR surrogate (Matérn 5/2, ARD) on 91 FEA simulations achieving LOOCV R² > 0.999; DE with UCB acquisition (κ=1.0) yielded 45% reduction in peak deck displacement under near-fault motions at ~1000× speedup over direct NLTHA-based optimisation.
+
+
+
+---
+
+## Skills
+
+**ML / Deep Learning** — PyTorch, scikit-learn, NumPy, Pandas, XGBoost, GPR, SciPy
+**Architectures** — U-Net variants, Attention mechanisms, State Space Models (Mamba), BiGRU/LSTM, DS-Conv
+**Agentic / LLM** — LLM orchestration, RAG pipelines, tool-use agentic workflows, Groq API
+**Research tooling** — LaTeX, Weights & Biases, TensorBoard, Grad-CAM, UMAP/t-SNE, Jupyter
+**Languages** — Python, Java, C, SQL, Bash
+**Infrastructure** — Git, Linux, Docker
+
+---
+
+## Recognition
+
+- 🏆 **Best Paper Award** in Image Processing Track, ANTIC 2025 (Springer LNCS)
+- 🇮🇳 **National Finalist** at Smart India Hackathon 2025, KIIT University nominee
+- 🤗 **Invited Contributor** at Hugging Face Hub (approached by Lead ML Engineer Niels Rogge); TCH-Net checkpoints, BRIDGE benchmark, and interactive Demo Space publicly released
+
+---
+
+## What I'm Looking For
+
+Research Assistant / Internship positions in **medical AI**, **uncertainty quantification**, or **data-driven computational modelling**. Open to lab collaborations, especially those working at the intersection of clinical relevance and methodological rigour.
+
+---
+
+## Get in Touch
+
+📬 ammarbhilwarawala@gmail.com
+🔗 [LinkedIn](https://linkedin.com/in/ammar-bww) · [Hugging Face](https://huggingface.co/Ammar-ss) · [Kaggle](https://kaggle.com/ammarbhilwarawala) · [Resume](https://drive.google.com/file/d/1-nYz_Jh647ffEowdqI215mtPx-tyfHsk/view?usp=drive_link)
+
+> *Open to a conversation about almost anything — drop a mail.*
