@@ -10,8 +10,8 @@ I build things at the edge of medical image segmentation, uncertainty-aware deep
 
 > All work is first-authored unless noted.
 
-**[FETALFusion](https://github.com/Ammar-ss/My_U-Net_Model_variations)** · *Under Review at MICCAI 2026*
-Dual-path CNN-Mamba encoder with resolution-aware state-space scanning for multi-domain fetal ultrasound segmentation. DSC = 0.9635, HD95 = 1.07 mm on 472 validation images. HD95 std 3.2× lower than VM-UNet.
+**[FETALFusion](https://github.com/Ammar-ss/My_U-Net_Model_variations)** · *Accepted at IPTA 2026*
+Dual-path CNN-Mamba encoder with resolution-aware state-space scanning for multi-domain fetal ultrasound segmentation.
 
 **[Attention-ResUNet for Fetal Head Segmentation](https://github.com/Ammar-ss/My_U-Net_Model_variations)** · *Published at ANTIC 2025 (Springer LNCS)* · 🏆 Best Paper, Image Processing Track
 Multi-scale attention gates + residual skip connections. DSC = 99.30 ± 0.14% on HC18 (n=200). Zero false-negative segmentations. 23 ms inference on RTX 3080.
@@ -61,7 +61,7 @@ GPR surrogate (Matérn 5/2, ARD) on 91 FEA simulations achieving LOOCV R² > 0.9
 
 ## What I'm Looking For
 
-Research Assistant / Internship positions in **medical AI**. Open to lab collaborations, especially those working at the intersection of clinical relevance and methodological rigour.
+Positions in **medical AI**. Open to lab collaborations, especially those working at the intersection of clinical relevance and methodological rigour.
 
 ---
 
